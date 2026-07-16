@@ -1,0 +1,75 @@
+XACTIMATE LINE ITEM QUICK REFERENCE — ClaimEdge
+Format: [CODE]   [DESCRIPTION]                               [UNIT]
+Replace [X] with actual quantities.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ROOFING (RFG)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RFG 300   Remove asphalt shingles                    [X] SQ
+RFG 310   Remove underlayment                        [X] SQ
+RFG 320   Remove wood deck (if damaged)              [X] SQ
+RFG 240   Solid wood sheathing OSB 7/16" or 1/2"     [X] SQ
+RFG 110   Felt underlayment (upgrade to synthetic)   [X] SQ
+RFG 115   Ice barrier membrane                       [X] LF (eaves/rakes)
+RFG 200   Drip edge aluminum                         [X] LF
+RFG 400   Laminated architectural shingles           [X] SQ
+RFG 450   Ridge cap shingles                         [X] LF
+RFG 500   Valley metal W-valley or closed cut        [X] LF
+RFG 600   Pipe flashing / boots                      [X] EA
+RFG 610   Box vent replacement                       [X] EA
+RFG 620   Turbine vent                               [X] EA
+RFG 630   Power vent                                 [X] EA
+RFG 700   Starter strip                              [X] LF
+RFG 710   Hip and ridge vents                        [X] LF
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SIDING (SID)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SID 100   Remove vinyl siding                        [X] SF
+SID 200   Vinyl siding (specify: D4D, Dutchlap, etc.) [X] SF
+SID 210   J-channel / utility trim                   [X] LF
+SID 220   Corner posts                               [X] LF
+SID 230   Soffit panels                              [X] SF
+SID 240   Fascia cover                               [X] LF
+SID 300   Housewrap / WRB (Tyvek or equivalent)      [X] SF
+SID 400   Step flashing at walls                     [X] LF
+SID 410   Kickout diverters                          [X] EA
+SID 500   Window wrap (if disturbed)                 [X] EA
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERIOR / MITIGATION (INT / WTR / DMO / DRY / PNT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WTR 100   Water damage assessment / mapping           [X] LS
+WTR 200   Dehumidifier commercial grade              [X] days
+WTR 300   Air mover axial                            [X] days
+WTR 400   Moisture monitoring daily                  [X] days
+WTR 500   Containment / barrier setup                [X] LS
+DMO 100   Remove drywall ceiling 5/8"                [X] SF
+DMO 110   Remove drywall walls                       [X] SF
+DMO 200   Remove baseboard (if wicking confirmed)    [X] LF
+DMO 300   Remove insulation (if saturated)           [X] SF
+DRY 100   Install drywall ceiling 5/8"               [X] SF
+DRY 110   Install drywall walls                      [X] SF
+PNT 100   Prime paint ceiling                        [X] SF
+PNT 110   Paint ceiling 2 coats                      [X] SF
+PNT 200   Texture match (orange peel / knockdown)    [X] SF
+CAB 100   Remove upper cabinets                      [X] EA
+CAB 200   Reset upper cabinets                       [X] EA
+CAB 300   Replace cabinet shelves (if wicking)       [X] EA
+FLOOR 100 Protect hardwood / tile flooring           [X] SF
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GENERAL CONDITIONS (GEN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GEN 100   Permits and fees                           [X] LS
+GEN 200   Dumpster / debris haul                     [X] LS
+GEN 300   Job site protection / containment          [X] LS
+GEN 400   OSHA safety setup (steep / 2-story)        [X] DAY
+GEN 500   Project manager / supervision              [X] HR
+GEN 600   Temporary tarping (emergency protection)   [X] LS
+GEN 700   ITEL sampling and handling                 [X] EA
+GEN 800   Permit expediting (if required)            [X] LS

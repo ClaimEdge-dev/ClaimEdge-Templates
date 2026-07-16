@@ -1,0 +1,111 @@
+IRC CODE QUICK REFERENCE — ClaimEdge
+Use these to justify line items and rebut adjuster objections.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ROOFING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IRC R905.2.1
+Requirement: Asphalt shingles must be fastened to solidly sheathed decks
+When It Applies: Every shingle roof replacement
+Adjuster Rebuttal: "The deck is compromised — I can't fasten to it per R905.2.1"
+
+IRC R905.2.2
+Requirement: Underlayment required beneath shingles (single or double per slope)
+When It Applies: All roof replacements
+Adjuster Rebuttal: "Underlayment is code-required, not optional"
+
+IRC R905.1.1
+Requirement: Ice barrier extending 24" inside exterior wall line at eaves
+When It Applies: Heated structures in cold climate zones
+Adjuster Rebuttal: "[CITY] requires ice barrier per adopted IRC"
+
+IRC R905.2.8.3
+Requirement: Drip edge required at eaves and rakes (1/4" projection, 2" up-roof)
+When It Applies: All roof replacements
+Adjuster Rebuttal: "Drip edge is code, not an upgrade"
+
+IRC R905.2.8
+Requirement: Flashing required at valleys, walls, chimneys, penetrations
+When It Applies: All roof replacements
+Adjuster Rebuttal: "Flashing is code-required weather protection"
+
+IRC R908.3
+Requirement: Full slope replacement when damage exceeds 25% of area
+When It Applies: Wind/hail damage assessments
+Adjuster Rebuttal: "We're over 25% — patching violates R908.3"
+
+IRC R806.2
+Requirement: Attic ventilation: 1:150 ratio (or 1:300 balanced)
+When It Applies: Enclosed attic spaces
+Adjuster Rebuttal: "Ventilation is code, not an upgrade"
+
+IRC R806.3
+Requirement: Ventilation openings protected against rain/snow
+When It Applies: All vent installations
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SIDING / EXTERIOR WALLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IRC R703.1
+Requirement: Weather protection required: WRB behind siding
+When It Applies: All siding replacements
+Adjuster Rebuttal: "WRB is code-required, not an upgrade"
+
+IRC R703.2
+Requirement: WRB must be continuous
+When It Applies: When siding is opened/disturbed
+
+IRC R703.8
+Requirement: Flashing required at exterior wall openings
+When It Applies: All window/door penetrations
+
+IRC R703.10
+Requirement: Vinyl siding installed per manufacturer instructions
+When It Applies: All vinyl siding work
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERIOR / MITIGATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IRC R702.3
+Requirement: Gypsum board must be dry and free from water damage
+When It Applies: All water-damaged drywall
+
+IICRC S500
+Requirement: Professional water damage restoration standard
+When It Applies: All interior water mitigation
+
+EPA Guideline
+Requirement: Mold risk when materials >16% moisture for >48 hours
+When It Applies: All water damage >48 hours old
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SAFETY / OSHA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OSHA 1926.501(b)(10)
+Requirement: Fall protection for roofing work >6' on slopes >4:12
+When It Applies: Steep or 2-story roofs
+
+OSHA 1926.1053
+Requirement: Ladder safety and secure footing
+When It Applies: All roof access
+
+OSHA 1926.95
+Requirement: PPE for exposed nail and debris hazards
+When It Applies: All demolition work
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ILLINOIS SPECIFIC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Matching Doctrine — Line v. State Farm
+Principle: When damaged materials can't be matched, carrier must replace connected sections for uniform appearance
+
+Matching Doctrine — Adams v. Cameron Mutual
+Principle: "Like kind and quality" requires visual uniformity, not just functional equivalence
+
+Reasonable Expectations Doctrine
+Principle: Policyholder is entitled to expect replacement restores pre-loss appearance

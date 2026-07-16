@@ -1,0 +1,38 @@
+{
+  "rate_card": {
+    "contractor": "ClaimEdge",
+    "contact": "Robert \"Bobby\" Krapil",
+    "phone": "815-347-4221",
+    "email": "claimedge2026@gmail.com",
+    "address": "2806 Amanda Ct, Joliet, IL 60431",
+    "tax_status": "1099 Contractor — No Sales Tax",
+    "terms": "Net 15 upon receipt",
+    "payment_methods": {
+      "zelle": "815-347-4221",
+      "ach": {
+        "bank": "The Bancorp Bank, N.A.",
+        "routing": "031101279",
+        "account": "389116812840",
+        "account_name": "Robert Krapil"
+      },
+      "check": {
+        "payable_to": "Robert Krapil",
+        "mail_to": "2806 Amanda Ct, Joliet, IL 60431"
+      }
+    },
+    "services": [
+      { "service": "Exterior Roof + Siding Inspection (full)", "rate": 150, "unit": "per inspection", "notes": "Main dwelling, all slopes, photos, code analysis" },
+      { "service": "Detached Structure Inspection (garage, shed)", "rate": 75, "unit": "per structure", "notes": "Per structure" },
+      { "service": "Interior Full Inspection Report", "rate": 75, "unit": "per inspection", "notes": "Moisture mapping, photos, narrative" },
+      { "service": "Polycam Spatial Measurement Scan", "rate": 75, "unit": "per scan", "notes": "3D scan + measurement report" },
+      { "service": "12-Document Claim Package Prep", "rate": 150, "unit": "per package", "notes": "Full documentation package assembly" },
+      { "service": "Full Inspection Day Rate", "rate": 325, "unit": "per day", "notes": "4+ properties, flat rate, unlimited in day" },
+      { "service": "Per-Property Inspection (standalone)", "rate": "75-150", "unit": "per property", "notes": "Depending on scope and distance" },
+      { "service": "Mitigation Sign-Up", "rate": 150, "unit": "per signup", "notes": "Documentation + carrier notification" },
+      { "service": "Adjuster Meeting / Re-Inspection Support", "rate": 150, "unit": "per meeting", "notes": "On-site meeting, rebuttals, scope push" },
+      { "service": "Xactimate / Supplement Support", "rate": 125, "unit": "per hour or per supplement", "notes": "Per hour or per supplement" },
+      { "service": "Emergency Tarping Documentation", "rate": 75, "unit": "per incident", "notes": "Photo documentation + carrier notification" },
+      { "service": "ITEL Sampling and Handling", "rate": 75, "unit": "per sample", "notes": "Pickup, drop-off, documentation" }
+    ]
+  }
+}
