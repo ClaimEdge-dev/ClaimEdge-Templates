@@ -1,0 +1,7 @@
+REBUTTAL: "Matching Isn't Required by the Policy"
+
+PHONE SCRIPT:
+"I've checked [NUMBER] distributors—[PRODUCT NAME] hasn't been made since [YEAR]. The policy says 'like kind and quality,' and [STATE] law says if you can't match discontinued materials, you replace the connected sections. I've got [NUMBER] separate damage zones on the same [ELEVATION/AREA]. You can't tell the homeowner to accept a patchwork quilt on the [LOCATION] of their house when the product hasn't been made since [YEAR]."
+
+WRITTEN SCRIPT:
+"Pursuant to [STATE] Matching Doctrine and the 'like kind and quality' policy provisions, full [AREA] replacement is required. [PRODUCT NAME] ([SPECIFIC IDENTIFIER]) was manufactured in [YEAR] and is confirmed discontinued through [DISTRIBUTOR 1], [DISTRIBUTOR 2], [DISTRIBUTOR 3], and [DISTRIBUTOR 4]. [NUMBER] distinct damage zones exist on the same [AREA] using this discontinued product. Under [STATE] precedent, when matching materials are unavailable, the carrier must replace all connected sections to achieve a uniform appearance. Partial repair is impossible without violating IRC R703.1 weather protection requirements and creating aesthetic mismatch unacceptable under the reasonable expectations doctrine."

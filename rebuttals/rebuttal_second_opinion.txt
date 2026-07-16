@@ -1,0 +1,7 @@
+REBUTTAL: "We Need a Second Opinion / Engineer Report"
+
+PHONE SCRIPT:
+"I'm happy to meet any engineer you want to send, but everything I've documented follows Haag Engineering criteria—that's the industry standard [CARRIER] already accepts. I have [NUMBER] photos, moisture readings, and code citations. An engineer will tell you the same thing: [CODE SECTION] requires [SCOPE ITEM] when [CONDITION]. Let's not delay this—the [EXPOSED DECK / INTERIOR MOISTURE] is getting worse every day."
+
+WRITTEN SCRIPT:
+"All documentation in this claim package follows Haag Engineering-defined wind damage criteria, the industry standard accepted by all major carriers including [CARRIER] for determining legitimate wind damage versus normal wear. The [NUMBER] documented Haag criteria, [NUMBER] field photographs, [NUMBER] moisture meter readings, and applicable IRC code citations provide objective evidence sufficient for scope determination. An independent engineering review will confirm the same findings: [IRC SECTION] requires [SCOPE ITEM] when [CONDITION]. Delay in approval increases risk of secondary damage to [AFFECTED AREAS]."

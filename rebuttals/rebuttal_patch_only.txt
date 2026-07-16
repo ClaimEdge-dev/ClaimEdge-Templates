@@ -1,0 +1,7 @@
+REBUTTAL: "We Can Just Patch It"
+
+PHONE SCRIPT:
+"[ADJUSTER NAME], I've got [NUMBER] damaged shingles with [DAMAGE TYPE] across the full [LOCATION] width—that's definitely over 25% of the slope. Per IRC R908.3, once we hit that threshold, patching is non-compliant. Plus, the [SEALANT/FASTENER] is [FAILURE MODE] in a [PATTERN TYPE] pattern per Haag Criteria [NUMBER]. You can't integrate new shingles with [EXISTING CONDITION]—they'll [FAILURE CONSEQUENCE] in the first wind."
+
+WRITTEN SCRIPT:
+"Per IRC R908.3, asphalt shingle roof systems require full slope replacement when damage exceeds 25% of the surface area. Field documentation confirms [NUMBER] damaged shingles with [DAMAGE TYPE] spanning the entire [LOCATION] width, constituting approximately [X]% of the [SLOPE]-facing slope. Additionally, Haag Criteria [NUMBER] ([CRITERION NAME]) is confirmed across multiple full horizontal courses—a pattern inconsistent with isolated damage suitable for patching. The [YEAR] claim addressed only [X] SQ; the remaining [Y] SQ sustained damage in this separate [DATE] event. Patching is not feasible as new shingle sealant cannot adhere to the [EXISTING CONDITION] of the existing wind-damaged shingles, creating immediate warranty and weatherproofing failures."

@@ -1,0 +1,7 @@
+REBUTTAL: "The Damage Doesn't Look That Bad From Here"
+
+PHONE SCRIPT:
+"I understand it may not look severe from [GROUND/STREET], but I have [NUMBER] close-up photos showing [SPECIFIC DAMAGE]. Haag Criteria [NUMBER] and [NUMBER] are both confirmed—this is [MAT CREASE / NAIL PULL-THROUGH / DYNAMIC SEALANT FAILURE], not [AGE-RELATED / THERMAL] wear. I can send you the critical exhibit photos right now if you want to see what I'm seeing up close."
+
+WRITTEN SCRIPT:
+"While damage severity may not be fully apparent from [VIEWING ANGLE], field documentation includes [NUMBER] close-up photographs confirming [DAMAGE TYPE] per Haag Criteria [NUMBER] ([CRITERION NAME]). The [SPECIFIC FINDING] is visible at [MAGNIFICATION / DETAIL LEVEL] and is inconsistent with [AGE / THERMAL / WEAR-RELATED] failure. Critical exhibit photos [IMG NUMBERS] are available for your review and demonstrate [SPECIFIC EVIDENCE] that supports the scope as documented."

@@ -1,0 +1,7 @@
+REBUTTAL: "We Don't Pay For Code Upgrades"
+
+PHONE SCRIPT:
+"This isn't an upgrade—it's code compliance. [COUNTY] requires [CODE ITEM] per [IRC SECTION]. The [WIND/HAIL] damaged the existing [COMPONENT], so I'm replacing it with what's legally required today. If I install [MINIMUM ITEM] instead of [CODE-REQUIRED ITEM] and [FAILURE CONSEQUENCE] next [SEASON], who's liable for the callback?"
+
+WRITTEN SCRIPT:
+"Pursuant to [IRC SECTION], [JURISDICTION] requires [CODE REQUIREMENT]. The [DATE] [EVENT TYPE] compromised the existing [COMPONENT], necessitating replacement. Under [STATE] law and standard insurance policy ordinance/law coverage provisions, replacement of damaged components must comply with currently enforced building codes. Installing [MINIMUM ITEM] without [CODE-REQUIRED ITEM] would violate [CITY] building requirements and expose the insured to future [RISK TYPE]. This is not an upgrade but code-compliant restoration of the damaged [SYSTEM]."

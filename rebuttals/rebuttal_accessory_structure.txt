@@ -1,0 +1,7 @@
+REBUTTAL: "It's Just an Accessory Structure (Garage/Shed)"
+
+PHONE SCRIPT:
+"That [STRUCTURE] deck has been exposed to weather for [NUMBER] days—I can see [VISIBLE DAMAGE] on the [MATERIAL]. Per R905.2.1, I need solid decking to fasten shingles, and this is compromised. The [OTHER SLOPE] has the same [DAMAGE MECHANISM]—Haag Criterion [NUMBER] confirmed there too. IRC R908.3 says I need matching systems; I can't put new shingles on one slope and leave [WIND-DAMAGED] ones on the other. It's [X] SQ—let's just do it right."
+
+WRITTEN SCRIPT:
+"The [STRUCTURE] requires full replacement per IRC R905.2.1 and R908.3. The [DAMAGED SLOPE] has been [COMPLETELY/PARTIALLY] denuded of shingles since [DATE], with [DECK MATERIAL] exposed to weather for [NUMBER]+ days, resulting in visible [DEGRADATION TYPE]. This compromises the deck's integrity as a fastening surface for new shingles, violating the solid-sheathing requirement. Furthermore, the [OTHER SLOPE] exhibits identical wind damage mechanisms ([DAMAGE TYPE] per Haag Criterion [NUMBER]). IRC R908.3 mandates matching roof systems; partial replacement would result in non-uniform aging, color differential, and structural inconsistency."
