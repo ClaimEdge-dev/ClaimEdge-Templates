@@ -1,0 +1,25 @@
+Subject: RE: Claim #[CLAIM_NUMBER] - Supplement Documentation Complete | Request for Inspection
+
+Mr./Ms. [ADJUSTER NAME],
+
+Following up on our conversation regarding the [DAMAGE TYPE] damage at [PROPERTY_ADDRESS] (Claim #[CLAIM_NUMBER]).
+
+I have completed the full field documentation and am ready to walk you through the findings at your earliest convenience. Key items requiring your review:
+
+• [Structure 1]: [SCOPE SUMMARY] per IRC [SECTION] ([REASON])
+• [Structure 2]: [SCOPE SUMMARY] per IRC [SECTION] ([REASON])
+• [Structure 3]: [SCOPE SUMMARY] — [MATCHING DOCTRINE / CODE REFERENCE]
+• [Structure 4]: [SCOPE SUMMARY] ([MOISTURE READINGS / EVIDENCE])
+
+All [NUMBER] Haag criteria confirmed. [NUMBER]-document package including Xactimate worksheet, storm verification, and code compliance analysis is ready for your review.
+
+I am available [AVAILABILITY] to meet on site or discuss via phone. Given [URGENCY REASON — e.g., exposed garage decking / active interior moisture], time is of the essence to prevent secondary damage.
+
+Please confirm your inspection availability.
+
+Respectfully,
+
+Robert Krapil
+ClaimEdge Field Services
+[CONTRACTOR NAME]
+815-347-4221 | claimedge2026@gmail.com

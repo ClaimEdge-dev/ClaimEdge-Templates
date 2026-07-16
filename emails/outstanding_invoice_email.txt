@@ -1,0 +1,49 @@
+Subject: Outstanding Invoice – Bobby Krapil | [Claim Name] | $[AMOUNT]
+
+[CONTACT NAME],
+
+Here's a clean breakdown of what's currently outstanding for work I've already completed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[CLAIM NAME] — [PROPERTY ADDRESS]
+[CARRIER] Claim #[CLAIM NUMBER]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• [Service item 1]
+• [Service item 2]
+• [Service item 3]
+• [Service item 4]
+• [Service item 5]
+
+Total for [claim name]: $[AMOUNT]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[SECOND JOB DESCRIPTION IF COMBINED]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Details of second job or day rate]
+
+Total: $[AMOUNT]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMBINED TOTAL DUE: $[TOTAL]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Payment Options:
+
+Zelle:          815-347-4221 (Robert Krapil)
+
+ACH / Direct:   The Bancorp Bank, N.A.
+                Routing:  031101279
+                Account:  389116812840
+                Name:     Robert Krapil
+
+Check:          Payable to Robert Krapil
+                2806 Amanda Ct, Joliet, IL 60431
+
+I really appreciate you, and I know things get busy. If we can get this $[AMOUNT] wrapped up, we'll be starting on a clean slate.
+
+Thanks again,
+
+Bobby
+815-347-4221

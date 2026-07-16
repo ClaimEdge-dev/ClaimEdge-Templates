@@ -1,0 +1,29 @@
+Subject: Code Requirements Confirmation - [PROPERTY_ADDRESS] - Reroof and Siding
+
+Building Official,
+
+I am writing to request written confirmation of currently enforced building code requirements for a residential restoration project at [PROPERTY_ADDRESS] (Jurisdiction: [CITY]).
+
+This property sustained [DAMAGE TYPE] damage on [DATE OF LOSS]. To ensure our restoration scope complies with all current building requirements, please confirm the following are required when replacing roofing and siding systems:
+
+• Solidly sheathed decking under asphalt shingles (IRC R905.2.1) and replacement criteria for damaged or spaced sheathing
+• Ice barrier extent at eaves for heated structures (IRC R905.1.1 — 24" inside wall line)
+• Drip edge requirements at eaves and rakes (IRC R905.2.8.3)
+• Flashing requirements at walls, valleys, chimneys, and penetrations (IRC R905.2.8)
+• Attic ventilation requirements for enclosed attic spaces (IRC R806)
+• WRB and flashing integration when replacing a full siding elevation (IRC R703.1 / R703.2 / R703.8)
+
+Please confirm which IRC cycle (2015 / 2018 / 2021) is currently enforced by the [CITY] building department for 1-2 family residential structures.
+
+Written confirmation of these requirements will allow us to submit a code-compliant scope of repairs to the insurance carrier and obtain the necessary permits for this restoration project.
+
+Please reply via email or provide a written statement I can share with the homeowner and carrier.
+
+Respectfully,
+
+Robert Krapil
+ClaimEdge / [CONTRACTOR NAME]
+2806 Amanda Ct, Joliet, IL 60431
+815-347-4221 | claimedge2026@gmail.com
+
+Property Owner: [INSURED NAME], [PROPERTY_ADDRESS]
