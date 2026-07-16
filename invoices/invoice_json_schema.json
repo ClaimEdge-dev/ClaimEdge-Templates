@@ -1,0 +1,65 @@
+{
+  "invoice": {
+    "invoice_number": "RK-YYYY-XXXX",
+    "date": "YYYY-MM-DD",
+    "due_date": "Upon Receipt",
+    "is_combined": false,
+    "from": {
+      "name": "Robert \"Bobby\" Krapil",
+      "company": "ClaimEdge",
+      "address": "[YOUR ADDRESS]",
+      "phone": "[YOUR PHONE]",
+      "email": "[YOUR EMAIL]"
+    },
+    "bill_to": {
+      "company": "[CONTRACTOR NAME]",
+      "contact": "[CONTACT PERSON]",
+      "address": "[ADDRESS]",
+      "phone": "[PHONE]"
+    },
+    "jobs": [
+      {
+        "job_id": "RK-YYYY-XXXX-A",
+        "label": "[Claim Name]",
+        "claim_info": {
+          "insured_name": "[NAME]",
+          "property_address": "[ADDRESS]",
+          "carrier": "[CARRIER]",
+          "claim_number": "[NUMBER]",
+          "date_of_loss": "YYYY-MM-DD",
+          "inspection_dates": ["YYYY-MM-DD"],
+          "inspector": "Robert Krapil"
+        },
+        "line_items": [
+          {
+            "line_number": 1,
+            "service": "[SERVICE NAME]",
+            "detail": "[DETAIL]",
+            "quantity": 1,
+            "rate": "[AMOUNT]",
+            "amount": "[AMOUNT]"
+          }
+        ],
+        "subtotal": "[AMOUNT]"
+      }
+    ],
+    "totals": {
+      "subtotal": "[AMOUNT]",
+      "tax": 0.00,
+      "total_due": "[AMOUNT]"
+    },
+    "payment_info": {
+      "zelle": "[YOUR ZELLE] ([YOUR NAME])",
+      "ach": {
+        "bank": "[YOUR BANK]",
+        "routing": "[ROUTING NUMBER]",
+        "account": "[ACCOUNT NUMBER]",
+        "account_name": "[YOUR NAME]"
+      },
+      "check": {
+        "payable_to": "[YOUR NAME]",
+        "mail_to": "[YOUR ADDRESS]"
+      }
+    }
+  }
+}
